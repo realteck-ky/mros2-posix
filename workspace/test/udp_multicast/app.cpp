@@ -126,7 +126,6 @@ static void receiver(udp_pcb* pcb)
 
 
 #include "mros2.h"
-#include "mros2_user_config.h"
 #include "std_msgs/msg/string.hpp"
 
 int mros2_get_submsg_count(void)
